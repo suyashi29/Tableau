@@ -1,0 +1,26 @@
+Brand	 Rating(10)
+	
+Sony	   5
+Nokia	  4.5
+Micromax	  6.5
+Apple	  9
+Asus	  6.5
+	
+HTC	  5
+Samung	  8.5
+Redmi	  8.5
+Honor	  5.2
+LG               4.5
+Motorola       8
+Vivo               7.8
+Acer              6
+Intex             6
+Lava              6.7
+Blackberry     8
+Spice              4.5
+Microsoft        6.8
+Zen                 7.1
+Oneplus          6.7
+Oppo             8.5
+
+			
